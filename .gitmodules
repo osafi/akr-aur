@@ -1,0 +1,9 @@
+[submodule "akr-bin"]
+	path = akr-bin
+	url = ssh://aur@aur.archlinux.org/akr-bin.git
+[submodule "akr"]
+	path = akr
+	url = ssh://aur@aur.archlinux.org/akr.git
+[submodule "akr-git"]
+	path = akr-git
+	url = ssh://aur@aur.archlinux.org/akr-git.git
